@@ -33,7 +33,7 @@ The architecture includes:
 - A Compute Engine virtual machine
 - A Cloud Storage bucket for object storage
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](architecture/architecture-diagram.jpeg)
 
 ---
 
