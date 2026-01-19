@@ -67,10 +67,10 @@ and understanding relationships between components.
 The following screenshots demonstrate hands-on interaction with the Google
 Cloud Console during the implementation of this project.
 
-![Compute Engine VM](screenshots/cloud-console-vm.png)
+![Compute Engine VM](screenshots/vm-instance.png)
 ![VPC Network](screenshots/vpc-network.png)
 ![Firewall Rules](screenshots/firewall-rules.png)
-![Cloud Storage Bucket](screenshots/storage-bucket.png)
+![Cloud Storage Bucket](screenshots/Buckets.png)
 
 ---
 
